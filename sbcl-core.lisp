@@ -110,6 +110,7 @@
   (use-system #:colorize)
   (use-system #:cffi)
   (use-system #:iolib)
+  (use-system #:ironclad)
   (use-system #:cl-slice)
   (use-system #:cl-syntax)
   (use-system #:yacc)
